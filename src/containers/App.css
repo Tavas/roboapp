@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'DemonCubicBlockFont';
+font-style: normal;
+font-weight: normal;
+src: local('DemonCubicBlockFont'), url('cubicblock.woff') format('woff');
+}
+
+h1 {
+	font-family: 'DemonCubicBlockFont';
+	font-weight: 200;
+	color: white;
+}
