@@ -1,5 +1,5 @@
 # roboapp
-Simple React Search App
+React Search App
 
 This app features search and scroll functions, with robots profile cards implemented from Robohash. 
 
